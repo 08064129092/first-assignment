@@ -1,0 +1,9 @@
+.Gcontainer{
+    display: grid;
+}
+.G1, .G2, .G3{
+    padding: 15px;
+    border: 10px;
+    margin: 5px;
+    background-color: brown;
+}
